@@ -1,5 +1,5 @@
 word_level_gpt2model:
-    config: 'https://drive.google.com/uc?id=1x1mTQ9u3LYp1Hi-fzo-yWkEhlLPcf_6S&export=download'
+    config: 'https://drive.google.com/uc?id=162B5HtHfv2YF2WV2VHyO0-zs75Oczr3n&export=download'
     weight: 'https://drive.google.com/uc?id=1-3ck0xORtfWalOIDgjzr4Aj0jIuGTQR2&export=download'
     tokenizer:
         merges_file: 'https://drive.google.com/uc?id=1-4uDbTwBabYl05hTPZN97l6g7YK760rW&export=download'
